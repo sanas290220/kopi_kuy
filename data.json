@@ -1,0 +1,178 @@
+{
+    "coffee": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu",
+            "size": "200 Ml",
+            "harga": "Rp. 15.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Coffee Latte",
+            "size": "200 Ml",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Capuchino",
+            "size": "200 Ml",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso",
+            "size": "200 Ml",
+            "harga": "Rp. 25.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        }
+    ],
+    "noncoffee": [
+        {
+            "foto": "images/produk/lemon-tea.jpg",
+            "nama": "Lemon Tea",
+            "size": "250 Ml",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Teh-Tarik.jpg",
+            "nama": "Teh Tarik",
+            "size": "250 Ml",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Coklat.jpg",
+            "nama": "Chocolate",
+            "size": "250 Ml",
+            "harga": "Rp. 25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sop-Buah.jpg",
+            "nama": "Sop Buah",
+            "size": "300 Ml",
+            "harga": "Rp. 30.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ],
+    "makanan": [
+        {
+            "foto": "images/produk/Mie-Goreng.jpg",
+            "nama": "Mie Goreng",
+            "size": "250 Gr",
+            "harga": "Rp. 18.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Nasi-Goreng-spesial.jpg",
+            "nama": "Nasi Goreng",
+            "size": "250 Gr",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Ayam-Goreng.jpg",
+            "nama": "Nasi Ayam Goreng",
+            "size": "250 Gr",
+            "harga": "Rp. 25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Nasi-Soto.jpg",
+            "nama": "Nasi Soto",
+            "size": "250 Gr",
+            "harga": "Rp. 25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ],
+    "semua": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopi Susu",
+            "size": "200 Ml",
+            "harga": "Rp. 15.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Coffee Latte",
+            "size": "200 Ml",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Capuchino",
+            "size": "200 Ml",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Espresso",
+            "size": "200 Ml",
+            "harga": "Rp. 25.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/lemon-tea.jpg",
+            "nama": "Lemon Tea",
+            "size": "250 Ml",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Teh-Tarik.jpg",
+            "nama": "Teh Tarik",
+            "size": "250 Ml",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Coklat.jpg",
+            "nama": "Chocolate",
+            "size": "250 Ml",
+            "harga": "Rp. 25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Sop-Buah.jpg",
+            "nama": "Sop Buah",
+            "size": "300 Ml",
+            "harga": "Rp. 30.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Mie-Goreng.jpg",
+            "nama": "Mie Goreng",
+            "size": "250 Gr",
+            "harga": "Rp. 18.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Nasi-Goreng-spesial.jpg",
+            "nama": "Nasi Goreng",
+            "size": "250 Gr",
+            "harga": "Rp. 20.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Ayam-Goreng.jpg",
+            "nama": "Nasi Ayam Goreng",
+            "size": "250 Gr",
+            "harga": "Rp. 25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/Nasi-Soto.jpg",
+            "nama": "Nasi Soto",
+            "size": "250 Gr",
+            "harga": "Rp. 25.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
